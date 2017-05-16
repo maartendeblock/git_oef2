@@ -1,2 +1,2 @@
 <?php
-echo 'Hello pale blue dot!';
+echo 'Hello pale blue rock!';
